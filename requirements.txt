@@ -1,0 +1,11 @@
+customtkinter 
+tkinter 
+requests
+threading
+time
+hmac
+hashlib
+base64
+pystray
+winsound
+smtplib
