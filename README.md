@@ -1,10 +1,6 @@
 # Crypto-Price-Alert-v1.1
 Crypto Price Alert is a desktop cryptocurrency monitoring application that allows users to create live crypto price alerts with desktop notifications and optional alarm sounds when target prices are reached.
 
-![image alt](https://github.com/MarcoDev123/Crypto-Price-Alert-v1.1/blob/main/Crypto_Price_Alert_About.png?raw=true)
-![image alt](https://github.com/MarcoDev123/Crypto-Price-Alert-v1.1/blob/main/Crypto_Price_Alert_Screenshot1.png?raw=true)
-
-
 CRYPTO PRICE ALERT — DISCLAIMER & LIMITATION OF LIABILITY
 
 IMPORTANT NOTICE
@@ -82,3 +78,7 @@ Users are responsible for:
 By installing, running, or using this software, you acknowledge that you have read, understood, and agreed to this disclaimer and limitation of liability.
 
 If you do not agree with these terms, do not use the software.
+
+![image alt](https://github.com/MarcoDev123/Crypto-Price-Alert-v1.1/blob/main/Crypto_Price_Alert_About.png?raw=true)
+![image alt](https://github.com/MarcoDev123/Crypto-Price-Alert-v1.1/blob/main/Crypto_Price_Alert_Screenshot1.png?raw=true)
+
